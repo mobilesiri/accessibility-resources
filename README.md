@@ -94,6 +94,7 @@ Use external providers to deliver training, run audits, perform user testing and
 ### Checkers
 
 - [Wave WebAIM](http://wave.webaim.org/extension/) - Chrome and Firefox extension for evaluating web content for accessibility issues. Also includes a colour contrast tool, desauturation tool and testing without styles.
+- [WCAGsafe](https://wcagsafe.com) — WCAG 2.1 AA scanner with plain-English results, PDF accessibility checking, and monthly monitoring.
 - [Siteimprove Accessibility Checker](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc) - Comprehensive tool for evaluating accessibility issues
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en) - Chrome Extension for ccessibility audits and element properties
 - [HTML_CodeSniffer](http://squizlabs.github.io/HTML_CodeSniffer/)
